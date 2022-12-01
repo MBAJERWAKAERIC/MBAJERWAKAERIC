@@ -1,10 +1,11 @@
-### Hi there 👋 
+### THE SECRETE OF SUCCESS IS A SACRIFE
 ### https://mbajerwakaeric.netlify.app
 
 <!--
 **MBAJERWAKAERIC/MBAJERWAKAERIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:  
+-->
 
 - 🔭 I’m a software engineer, web devoloper and cyber star
 - 🌱 I’m currently learning the advanced cyber security
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: erickmbanjerwaka@gmail.com +256779090623
 - 😄 Pronouns: Eric
 - ⚡ Fun fact: Senior programmer
--->
+
