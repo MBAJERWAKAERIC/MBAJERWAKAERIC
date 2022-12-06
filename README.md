@@ -1,4 +1,4 @@
-### THE SECRETE OF SUCCESS IS A SACRIFE
+### THE SECRETE OF SUCCESS IS A SACRIFICE
 ### https://mbajerwakaeric.netlify.app
 <!--
 **MBAJERWAKAERIC/MBAJERWAKAERIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
