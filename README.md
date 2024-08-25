@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking forward to growup with new skills 
 - 💬 Ask me about new tech developpement
 
-- 📫 How to reach me: erickmbanjerwaka@gmail.com 
+- 📫 How to reach me: erickmbanjerwaka@gmail.com
+                      mbajerwakaeric@gmail.com
                       +256779090623
 - 😄 Pronouns:        Eric
 - ⚡ Fun fact:        Senior programmer
